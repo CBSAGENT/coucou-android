@@ -1,0 +1,36 @@
+# Gradle files
+
+**/build/
+**/app/build/
+
+# Local configuration
+local.properties
+.gradle/
+.idea/
+*.iml
+
+# Android Studio / IntelliJ
+*.iws
+*.ipr
+*.swp
+*.swo
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Kotlin / Java
+*.class
+*.log
+
+# Signing
+*.jks
+*.keystore
+
+# Generated files
+/captures/
+
+# App / build output
+*.apk
+*.ap_
+*.aab
